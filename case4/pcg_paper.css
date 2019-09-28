@@ -1,4 +1,4 @@
-/@charset "utf-8";
+@charset "utf-8";
 
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
@@ -6,11 +6,15 @@
    Case Problem 4
 
    Park City Gazette Style Sheet
-   Author: 
-   Date:   
+   Author: Isaiah Romo
+   Date:   9/27/19
 
    Filename:         pcg_paper.css
    Supporting Files: 
 
 */
 
+html{
+   min-height:640px;
+   max-height: 960px;
+}
